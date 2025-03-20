@@ -1,0 +1,13 @@
+.care {
+    text-align: center;
+  }
+  
+  .care h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .care p {
+    font-size: 1.2rem;
+    color: #555;
+  }

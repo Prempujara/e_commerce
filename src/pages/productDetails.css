@@ -1,0 +1,21 @@
+.product-details {
+    text-align: center;
+  }
+  
+  .product-details img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  
+  .product-details h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .product-details p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 1rem;
+  }
